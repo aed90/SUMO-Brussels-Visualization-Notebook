@@ -17,6 +17,7 @@ pandas>=2.2.0
 geopandas>=1.1.0
 matplotlib>=3.9.0
 sumolib>=1.21.0
+
 Install SUMO (required for `sumolib`):
 - Download and install SUMO from [eclipse.org/sumo](https://www.eclipse.org/sumo/).
 - Set the `SUMO_HOME` environment variable.
